@@ -2,9 +2,17 @@
 
 A simple Express.js backend server for managing coffee items in a MongoDB database. Built for the Coffee Store project.
 
-## 🔗 Live Server (Optional)
-If deployed:  
-🌍 [https://coffee-store-server-swart-iota.vercel.app/]
+---
+
+## 🔗 Live Server
+
+🌍 [https://coffee-store-server-swart-iota.vercel.app](https://coffee-store-server-swart-iota.vercel.app)
+
+---
+
+## 📦 GitHub Repository
+
+📁 [https://github.com/Jakia123sultana/coffee-server](https://github.com/Jakia123sultana/coffee-server)
 
 ---
 
@@ -31,5 +39,9 @@ If deployed:
 
 ---
 
+## 📦 Installation
 
-
+```bash
+git clone https://github.com/Jakia123sultana/coffee-server.git
+cd coffee-server
+npm install
